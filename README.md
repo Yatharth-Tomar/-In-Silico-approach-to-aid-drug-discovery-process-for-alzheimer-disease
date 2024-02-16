@@ -1,6 +1,6 @@
 # -In-Silico-approach-to-aid-drug-discovery-process-for-alzheimer-disease
 
-This research study product aims to leverage computational techniques for data analysis and
+This research study project aims to leverage computational techniques for data analysis and
 machine learning models to identify potential drug candidates for Alzheimer’s
 disease (AD) efficiently by predicting the IC50 values of the target protein inhibitors.
 The study primarily focuses on Acetylcholinesterase (AChE) and
